@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ハルカナ約束",
+  "base_artist": "KAT-TUN",
+  "createdAt": "2026-03-22T10:45:00.975007Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Harukana Yakusoku (ハルカナ約束)",
+      "artist": "KAT-TUN",
+      "has_synced": true,
+      "path": "select/01_Harukana_Yakusoku_(ハルカナ約束)_KAT-TUN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ハルカナ約束",
+      "artist": "KAT-TUN",
+      "has_synced": false,
+      "path": "select/pl_01_ハルカナ約束_KAT-TUN.txt"
+    }
+  ]
+}
